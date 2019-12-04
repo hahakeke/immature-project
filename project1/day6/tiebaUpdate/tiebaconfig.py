@@ -1,0 +1,6 @@
+MONGO_URL = 'localhost'
+MONGO_DB = 'tieba-IU'
+MONGO_TABLE = 'IU'
+GROUP_START = 0
+GROUP_END = 10
+KEYWORD = 'IU'
